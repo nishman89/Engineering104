@@ -1,7 +1,1 @@
-Hello everyone
-
-
-
-It feels like Spring :)
-
-## Eng 104
+## Turtles are kinda great tbh
