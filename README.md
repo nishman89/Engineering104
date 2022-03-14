@@ -1,11 +1,5 @@
+
 # Eng 104 
 
-Turtles are not that great
+## Turtles are kinda great tbh
 
-Hello everyone
-
-
-
-It feels like Spring :)
-
-## Eng 104
